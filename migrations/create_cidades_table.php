@@ -6,7 +6,7 @@ use Illuminate\Database\Migrations\Migration;
 class CreateCidadesTable extends Migration
 {
     /**
-     * Cria o schema de cidades do projeto
+     * Criação de schema para cidades
      * @author Cesar André (https://github.com/cesar-andre)
      * @return void
      */
@@ -17,12 +17,11 @@ class CreateCidadesTable extends Migration
             $table->integer('estado_id');
             $table->string('nome');
             $table->timestamps();
-            $table->foreign('estado_id')->references('id')->on('estados');
         });
     }
 
     /**
-     * Rollback caso necessário
+     * Reverte a migration
      *
      * @return void
      */

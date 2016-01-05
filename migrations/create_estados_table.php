@@ -6,7 +6,7 @@ use Illuminate\Database\Migrations\Migration;
 class CreateEstadosTable extends Migration
 {
     /**
-     * Cria o schema de estados do projeto
+     * Criação de schema para estados
      * @author Cesar André (https://github.com/cesar-andre)
      * @return void
      */
@@ -22,7 +22,7 @@ class CreateEstadosTable extends Migration
     }
 
     /**
-     * Rollback caso necessário
+     * Reverter a migration
      *
      * @return void
      */
