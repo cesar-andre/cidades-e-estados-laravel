@@ -6,8 +6,9 @@ Você pode entrar em contato comigo também pelo e-mail: cedepaula@outlook.com.
 
 Se você utiliza Laravel Framework, poderá encontrar migrations e os seeders das tabelas.
 
-
-
 # Migrations:
+[Estados](migrations/create_estados_table.php)
+[Cidades](migrations/create_cidades_table.php)
 
 # Seeders:
+[Em desenvolvimeto]
