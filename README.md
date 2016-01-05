@@ -15,9 +15,11 @@ A seguir, poderá encontrar migrations e os seeders das tabelas.
 
 # Seeders:
 Estados:
+
 [Seeder dos estados](seeders/EstadosTableSeeder.php)
 
 Municipios:
+
 [Acre](seeders/CidadesTableACSeeder.php)
 
 [Alagoas](seeders/CidadesTableALSeeder.php)
