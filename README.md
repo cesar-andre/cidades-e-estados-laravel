@@ -1,8 +1,8 @@
 # Cidades e Estados para Laravel Framework
 
-Recentemente trabalhei em um projeto que utilizava esquemas para Estados e Cidades. Resolvi "Laravelizar" e transcrevi as tabelas usando migrations e seeders. Aqui você confere o resultado.
+Recentemente trabalhei em um projeto que utilizava esquemas para Estados e Cidades. Resolvi "laravelizar" e transcrevi as tabelas usando migrations e seeders. Aqui você confere o resultado.
 
-Essa é uma das minhas primeiras aventuras no mundo do código aberto. Esse repositório foi criado com o ojetivo de fornecer uma sugestão para tabela de estados e cidades em um projeto. Sinta-se a vontade para corrigir, sugerir, discordar e/ou fazer suas próprias mudanças.
+Essa é uma das minhas primeiras aventuras no mundo do código aberto. Esse repositório foi criado com o objetivo de fornecer uma sugestão para tabela de estados e cidades em um projeto. Sinta-se a vontade para corrigir, sugerir, discordar e/ou fazer suas próprias mudanças.
 
 Podemos bater um papo! Você pode entrar em contato comigo também pelo e-mail: cedepaula@outlook.com.
 
