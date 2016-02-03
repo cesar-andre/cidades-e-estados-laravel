@@ -37,6 +37,6 @@ class EstadosTableSeeder extends Seeder
         DB::table('estados')->insert(['UF' => 'SC', 'nome' => 'SANTA CATARINA', 'codigo_uf_ibge' => 42]);
         DB::table('estados')->insert(['UF' => 'SE', 'nome' => 'SERGIPE', 'codigo_uf_ibge' => 28]);
         DB::table('estados')->insert(['UF' => 'SP', 'nome' => 'SÃO PAULO', 'codigo_uf_ibge' => 35]);
-        DB::table('estados')->insert(['UF' => 'TO', 'nome' => 'TOCANTINS','codigo_uf_ibge' =>  1]);
+        DB::table('estados')->insert(['UF' => 'TO', 'nome' => 'TOCANTINS','codigo_uf_ibge' =>  17]);
     }
 }
